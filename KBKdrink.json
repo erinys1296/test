@@ -1,13 +1,13 @@
 [
   {
     "category": "乎乾好茶",
-    "category_image":  " https://kebuke.com/wp-content/uploads/2025/04/%E5%AE%98%E7%B6%B2%E8%8F%9C%E5%96%AE%E5%9C%96%E6%A1%88-_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F-1.png",
+    "category_image": "https://kebuke.com/wp-content/uploads/2025/04/%E5%AE%98%E7%B6%B2%E8%8F%9C%E5%96%AE%E5%9C%96%E6%A1%88-_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F-1.png",
     "items": [
-      { "name": "熟成紅茶", "price": { "M": 35, "L": 40 }, "cold_only": false, "description": "帶有濃穩果香的經典紅茶" },
-      { "name": "麗春紅茶", "price": { "M": 35, "L": 40 }, "cold_only": false, "description": "淡花香調，口感清雅" },
-      { "name": "烏米紅茶", "price": { "M": 35, "L": 40 }, "cold_only": false, "description": "米香烏龍與紅茶交織，爆米花香回甘" },
-      { "name": "春芽綠茶", "price": { "M": 35, "L": 40 }, "cold_only": false, "description": "春滿四溢的青翠綠茶" },
-      { "name": "胭脂紅茶", "price": { "M": 45, "L": 50 }, "cold_only": false, "description": "絲絨般蜜桃果香紅茶" }
+      { "name": "熟成紅茶", "price": { "M": 35, "L": 40 }, "cold_only": false, "description": "帶有濃穩果香的經典紅茶", "imgUrl": "https://raw.githubusercontent.com/erinys1296/test/master/IMG_9332.jpeg" },
+      { "name": "麗春紅茶", "price": { "M": 35, "L": 40 }, "cold_only": false, "description": "淡花香調，口感清雅",              "imgUrl": "https://raw.githubusercontent.com/erinys1296/test/master/IMG_9333.jpeg" },
+      { "name": "烏米紅茶", "price": { "M": 35, "L": 40 }, "cold_only": false, "description": "米香烏龍與紅茶交織，爆米花香回甘", "imgUrl": "https://raw.githubusercontent.com/erinys1296/test/master/IMG_9334.jpeg" },
+      { "name": "春芽綠茶", "price": { "M": 35, "L": 40 }, "cold_only": false, "description": "春滿四溢的青翠綠茶",              "imgUrl": "https://raw.githubusercontent.com/erinys1296/test/master/IMG_9335.jpeg" },
+      { "name": "胭脂紅茶", "price": { "M": 45, "L": 50 }, "cold_only": false, "description": "絲絨般蜜桃果香紅茶",              "imgUrl": "https://raw.githubusercontent.com/erinys1296/test/master/IMG_9336.jpeg" }
     ]
   },
 
@@ -15,11 +15,11 @@
     "category": "乎乾 冬瓜",
     "category_image": "https://kebuke.com/wp-content/uploads/2025/04/%E5%AE%98%E7%B6%B2%E8%8F%9C%E5%96%AE%E5%9C%96%E6%A1%88-_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F-1-%E8%A4%87%E6%9C%AC-3.png",
     "items": [
-      { "name": "雪花冷露", "price": { "M": 35, "L": 40 }, "cold_only": false, "description": "古法熬煮冬瓜露，沁涼滑順" },
-      { "name": "熟成冷露", "price": { "M": 40, "L": 45 }, "cold_only": false, "description": "經典熟成紅茶 × 冬瓜露" },
-      { "name": "春芽冷露", "price": { "M": 40, "L": 45 }, "cold_only": false, "description": "青翠綠茶 × 冬瓜露" },
-      { "name": "胭脂冷露", "price": { "M": 45, "L": 50 }, "cold_only": false, "description": null },
-      { "name": "檸檬冷露", "price": { "M": 50, "L": 60 }, "cold_only": false, "description": null }
+      { "name": "雪花冷露", "price": { "M": 35, "L": 40 }, "cold_only": false, "description": "古法熬煮冬瓜露，沁涼滑順", "imgUrl": "https://raw.githubusercontent.com/erinys1296/test/master/IMG_9340.jpeg" },
+      { "name": "熟成冷露", "price": { "M": 40, "L": 45 }, "cold_only": false, "description": "經典熟成紅茶 × 冬瓜露",     "imgUrl": "https://raw.githubusercontent.com/erinys1296/test/master/IMG_9342.jpeg" },
+      { "name": "春芽冷露", "price": { "M": 40, "L": 45 }, "cold_only": false, "description": "青翠綠茶 × 冬瓜露",         "imgUrl": "https://raw.githubusercontent.com/erinys1296/test/master/IMG_9343.jpeg" },
+      { "name": "胭脂冷露", "price": { "M": 45, "L": 50 }, "cold_only": false, "description": null,                     "imgUrl": "https://raw.githubusercontent.com/erinys1296/test/master/IMG_9344.jpeg" },
+      { "name": "檸檬冷露", "price": { "M": 50, "L": 60 }, "cold_only": false, "description": null,                     "imgUrl": "https://raw.githubusercontent.com/erinys1296/test/master/IMG_9345.jpeg" }
     ]
   },
 
@@ -27,11 +27,11 @@
     "category": "乎乾 好眠",
     "category_image": "https://kebuke.com/wp-content/uploads/2025/04/%E5%AE%98%E7%B6%B2%E8%8F%9C%E5%96%AE%E5%9C%96%E6%A1%88-_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F-1-%E8%A4%87%E6%9C%AC-4.png",
     "items": [
-      { "name": "輕纖穀奈茶", "price": { "M": 40, "L": 50 }, "cold_only": false, "description": null },
-      { "name": "穀奈冷露",   "price": { "M": 45, "L": 55 }, "cold_only": false, "description": null },
-      { "name": "穀奈歐蕾",   "price": { "M": 59, "L": 69 }, "cold_only": false, "description": null },
-      { "name": "春梅冰茶",   "price": { "M": 50, "L": 60 }, "cold_only": false, "description": "冬瓜底 × 脆梅酸甜" },
-      { "name": "金蜜檸檬",   "price": { "M": 53, "L": 63 }, "cold_only": false, "description": "蜂蜜檸檬 100% 鮮榨汁" }
+      { "name": "輕纖穀奈茶", "price": { "M": 40, "L": 50 }, "cold_only": false, "description": null, "imgUrl": "https://raw.githubusercontent.com/erinys1296/test/master/IMG_9346.jpeg" },
+      { "name": "穀奈冷露",   "price": { "M": 45, "L": 55 }, "cold_only": false, "description": null, "imgUrl": "https://raw.githubusercontent.com/erinys1296/test/master/IMG_9347.jpeg" },
+      { "name": "穀奈歐蕾",   "price": { "M": 59, "L": 69 }, "cold_only": false, "description": null, "imgUrl": "https://raw.githubusercontent.com/erinys1296/test/master/IMG_9348.jpeg" },
+      { "name": "春梅冰茶",   "price": { "M": 50, "L": 60 }, "cold_only": false, "description": "冬瓜底 × 脆梅酸甜", "imgUrl": "https://raw.githubusercontent.com/erinys1296/test/master/IMG_9349.jpeg" },
+      { "name": "金蜜檸檬",   "price": { "M": 53, "L": 63 }, "cold_only": false, "description": "蜂蜜檸檬 100% 鮮榨汁", "imgUrl": "https://raw.githubusercontent.com/erinys1296/test/master/IMG_9350.jpeg" }
     ]
   },
 
@@ -39,11 +39,11 @@
     "category": "乎乾 手作",
     "category_image": "https://kebuke.com/wp-content/uploads/2025/04/%E5%AE%98%E7%B6%B2%E8%8F%9C%E5%96%AE%E5%9C%96%E6%A1%88-_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F-1-%E8%A4%87%E6%9C%AC.png",
     "items": [
-      { "name": "熟檸紅茶", "price": { "M": 45, "L": 55 }, "cold_only": false, "description": null },
-      { "name": "春檸綠茶", "price": { "M": 45, "L": 55 }, "cold_only": false, "description": null },
-      { "name": "太妃熟成", "price": { "M": 50, "L": 55 }, "cold_only": false, "description": "咖啡 × 紅茶的太妃特調（加濃 +10）" },
-      { "name": "胭脂多多", "price": { "M": 50, "L": 60 }, "cold_only": true,  "description": "蜜桃胭脂紅茶搭配多多，酸甜童趣" },
-      { "name": "金蜜熟成", "price": { "M": 53, "L": 63 }, "cold_only": false, "description": "蜂蜜尾韻 × 經典熟成紅茶" }
+      { "name": "熟檸紅茶", "price": { "M": 45, "L": 55 }, "cold_only": false, "description": null,                                         "imgUrl": "https://raw.githubusercontent.com/erinys1296/test/master/IMG_9352.jpeg" },
+      { "name": "春檸綠茶", "price": { "M": 45, "L": 55 }, "cold_only": false, "description": null,                                         "imgUrl": "https://raw.githubusercontent.com/erinys1296/test/master/IMG_9353.jpeg" },
+      { "name": "太妃熟成", "price": { "M": 50, "L": 55 }, "cold_only": false, "description": "咖啡 × 紅茶的太妃特調（加濃 +10）",       "imgUrl": "https://raw.githubusercontent.com/erinys1296/test/master/IMG_9354.jpeg" },
+      { "name": "胭脂多多", "price": { "M": 50, "L": 60 }, "cold_only": true,  "description": "蜜桃胭脂紅茶搭配多多，酸甜童趣",         "imgUrl": "https://raw.githubusercontent.com/erinys1296/test/master/IMG_9355.jpeg" },
+      { "name": "金蜜熟成", "price": { "M": 53, "L": 63 }, "cold_only": false, "description": "蜂蜜尾韻 × 經典熟成紅茶",               "imgUrl": "https://raw.githubusercontent.com/erinys1296/test/master/IMG_9356.jpeg" }
     ]
   },
 
@@ -51,11 +51,11 @@
     "category": "乎乾 鮮奶",
     "category_image": "https://kebuke.com/wp-content/uploads/2025/04/%E5%AE%98%E7%B6%B2%E8%8F%9C%E5%96%AE%E5%9C%96%E6%A1%88-_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F-1-%E8%A4%87%E6%9C%AC-2.png",
     "items": [
-      { "name": "熟成歐蕾", "price": { "M": 55, "L": 65 }, "cold_only": false, "description": "紅茶奶香平衡、醇厚順口" },
-      { "name": "冷露歐蕾", "price": { "M": 55, "L": 65 }, "cold_only": false, "description": "冬瓜露遇上鮮奶，甘甜雅緻" },
-      { "name": "金蜜歐蕾", "price": { "M": 60, "L": 70 }, "cold_only": false, "description": "蜂蜜香潤的鮮奶茶" },
-      { "name": "胭脂歐蕾", "price": { "M": 59, "L": 69 }, "cold_only": false, "description": "蜜桃果香鮮奶茶" },
-      { "name": "白玉歐蕾", "price": { "M": 60, "L": 70 }, "cold_only": false, "description": "Q 彈白玉珍珠 × 鮮奶茶" }
+      { "name": "熟成歐蕾", "price": { "M": 55, "L": 65 }, "cold_only": false, "description": "紅茶奶香平衡、醇厚順口", "imgUrl": "https://raw.githubusercontent.com/erinys1296/test/master/IMG_9357.jpeg" },
+      { "name": "冷露歐蕾", "price": { "M": 55, "L": 65 }, "cold_only": false, "description": "冬瓜露遇上鮮奶，甘甜雅緻",  "imgUrl": "https://raw.githubusercontent.com/erinys1296/test/master/IMG_9358.jpeg" },
+      { "name": "金蜜歐蕾", "price": { "M": 60, "L": 70 }, "cold_only": false, "description": "蜂蜜香潤的鮮奶茶",          "imgUrl": "https://raw.githubusercontent.com/erinys1296/test/master/IMG_9359.jpeg" },
+      { "name": "胭脂歐蕾", "price": { "M": 59, "L": 69 }, "cold_only": false, "description": "蜜桃果香鮮奶茶",            "imgUrl": "https://raw.githubusercontent.com/erinys1296/test/master/IMG_9360.jpeg" },
+      { "name": "白玉歐蕾", "price": { "M": 60, "L": 70 }, "cold_only": false, "description": "Q 彈白玉珍珠 × 鮮奶茶",    "imgUrl": "https://raw.githubusercontent.com/erinys1296/test/master/IMG_9361.jpeg" }
     ]
   }
 ]
